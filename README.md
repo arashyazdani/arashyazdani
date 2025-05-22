@@ -5,13 +5,14 @@
 
 - 🔭 I’m currently working on **Individual project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Microservices**
 
 - 👯 I’m looking to collaborate on **New job**
 
 - 👨‍💻 All of my projects are available at [https://ipaco.co/portfolio](https://ipaco.co/portfolio)
 
-- 💬 Ask me about **C#, SQL Server, .Net Core, Angular**
+- 💬 Ask me about **ASP.NET, EF Core, RESTful API, Blazor, Docker, YARP, RabbitMQ, gRPC, 
+C#, JavaScript, TypeScript, MS SQL, MySQL, PostgreSQL, MongoDB, Redis,  Bootstrap, Angular, Git, Azure DevOps, TDD, Microservices**
 
 - 📫 How to reach me **arash.yazdani.b@gmail.com**
 
